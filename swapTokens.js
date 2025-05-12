@@ -1,7 +1,7 @@
 const { ethers } = require("ethers");
 
 const SEPOLIA_URL = "https://sepolia.infura.io/v3/2f4613d5a37f4efdbd08429ec1fc2c0b"
-const PKEY = "2693f38c84a8e024b4350eb848df9248e54340a4c1bd8874dfd4f263e7f51845"
+const PKEY = ""
 const CONTRACT_ADDRESS = "0xfFf9976782d46CC05630D1f6eBAb18b2324d6B14"
 
 const contractABI = [{
